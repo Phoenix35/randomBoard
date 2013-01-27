@@ -7,6 +7,7 @@ randomBoard
 TO-DO
 -----
  * Interactivity
+
 Support of user-defined:
  - board type
  - board size
@@ -14,10 +15,13 @@ Support of user-defined:
  - Potentially everlasting 
 
  * Algorithm
+
 Everything
 
  * Programming
+
 Everything
 
  * Sleeping
+
 Definitely
