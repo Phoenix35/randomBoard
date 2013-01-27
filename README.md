@@ -3,7 +3,7 @@ randomBoard
 
 TO-DO
 -----
-#Interactivity
+##Interactivity
 __Support of user-defined__
  * board type
  * board size
@@ -11,11 +11,11 @@ __Support of user-defined__
  * Potentially everlasting 
 
 
-#Algorithm
- *Everything
-
-#Programming
+##Algorithm
  * Everything
 
-#Sleeping
+##Programming
+ * Everything
+
+##Sleeping
  * Definitely
