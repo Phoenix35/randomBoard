@@ -3,19 +3,19 @@ randomBoard
 
 TO-DO
 -----
-Interactivity
-Support of user-defined:
+#Interactivity
+__Support of user-defined__
  * board type
  * board size
  * squares' color
  * Potentially everlasting 
 
 
-Algorithm
+#Algorithm
  *Everything
 
-Programming
+#Programming
  * Everything
 
-Sleeping
+#Sleeping
  * Definitely
