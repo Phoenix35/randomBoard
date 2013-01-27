@@ -1,27 +1,21 @@
 randomBoard
 ===========
-=======
-randomBoard
-===========
 
 TO-DO
 -----
- * Interactivity
-
+Interactivity
 Support of user-defined:
- - board type
- - board size
- - squares' color
- - Potentially everlasting 
+ * board type
+ * board size
+ * squares' color
+ * Potentially everlasting 
 
- * Algorithm
 
-Everything
+Algorithm
+ *Everything
 
- * Programming
+Programming
+ * Everything
 
-Everything
-
- * Sleeping
-
-Definitely
+Sleeping
+ * Definitely
