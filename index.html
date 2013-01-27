@@ -18,8 +18,22 @@
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
 
-        <!-- Add your site or application content here -->
-        <p>Hello world! This is HTML5 Boilerplate.</p>
+        <p>
+            <form>
+            <p>
+                <label for="square">Type of board (default Square)</label><br /><input type="radio" id="square" name="boardType" value="Square" />Square <input type="radio" name="boardType" value="Rectangle" />Rectangle</br /><br />
+                <label for="size">Size of the board <input type="number" id="size" value="3" min="0" step="1" /></label><br /><br />
+                <label for="activeColor"><span class="smaller">#</span><input type="text" id="activeColor" placeholder="Non-active color" /> (default 000000)</label><br />
+                <label for="nonactiveColor"><span class="smaller">#</span><input type="text" id="nonactiveColor" placeholder="Active color" /> (default 000000)</label>
+            </p>
+            </form>
+            
+            <table>
+                <caption>A simple random board generator</caption>
+                    <tr><td>0</td><td>0</td></tr>
+                    <tr><td>0</td><td>0</td></tr>
+            </table>
+        </p>
 
         <script src="js/main.js"></script>
 

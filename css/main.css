@@ -30,12 +30,14 @@ body {
  */
 
 ::-moz-selection {
-    background: #b3d4fc;
+    background: #fe57a1;
+    color: #fff;
     text-shadow: none;
 }
 
 ::selection {
-    background: #b3d4fc;
+    background: #fe57a1;
+    color: #fff;
     text-shadow: none;
 }
 
@@ -95,18 +97,30 @@ textarea {
 
 
 
+body {
+    margin: 1%;
+}
 
+.smaller {
+    font-size: small;
+}
 
+input[type="number"] {
+    width: 5%;
+}
 
-
-
-
-
-
-
-
-
-
+table {
+    width: 20%;
+    text-align: center;
+    margin: auto;
+    border: 2px solid black;
+}
+table>caption {
+    font-weight: bold;
+}
+table td, table th {
+    border: 1px solid black;
+}
 
 
 /* ==========================================================================
@@ -214,10 +228,10 @@ textarea {
    EXAMPLE Media Queries for Responsive Design.
    Theses examples override the primary ('mobile first') styles.
    Modify as content requires.
-   ========================================================================== */
+   ========================================================================== 
 
 @media only screen and (min-width: 35em) {
-    /* Style adjustments for viewports that meet the condition */
+    /* Style adjustments for viewports that meet the condition 
 }
 
 @media print,
